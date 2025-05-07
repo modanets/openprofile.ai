@@ -48,7 +48,7 @@ After the standard is drafted, we’ll:
 ### 💬 Want to Help?
 
 If you care about making AI more personal, useful, and user-respecting — we’d love your ideas, feedback, and code contributions.  
-Start by checking out the issues or suggesting your use case.
+Start by checking out the discussions or suggesting your use case.
 
 ---
 
