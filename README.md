@@ -53,4 +53,4 @@ Start by checking out the discussions or suggesting your use case.
 ---
 
 **GitLab:** [https://gitlab.com/modanets/openprofile.ai](https://github.com/modanets/openprofile.ai)  
-**Homepage:** [https://openprofile.ai](https://openprofile.ai)
+**Wiki:** [https://github.com/modanets/openprofile.ai/wiki](https://github.com/modanets/openprofile.ai/wiki)
