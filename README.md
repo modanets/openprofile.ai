@@ -48,9 +48,5 @@ After the standard is drafted, we’ll:
 ### 💬 Want to Help?
 
 If you care about making AI more personal, useful, and user-respecting — we’d love your ideas, feedback, and code contributions.  
-Start by checking out the discussions or suggesting your use case.
+Start by checking out [Wiki](https://github.com/modanets/openprofile.ai/wiki) and [Discussions](https://github.com/modanets/openprofile.ai/discussions).
 
----
-
-**GitLab:** [https://gitlab.com/modanets/openprofile.ai](https://github.com/modanets/openprofile.ai)  
-**Wiki:** [https://github.com/modanets/openprofile.ai/wiki](https://github.com/modanets/openprofile.ai/wiki)
