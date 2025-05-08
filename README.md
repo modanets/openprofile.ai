@@ -8,8 +8,6 @@ OpenProfile.AI is an open API standard that enables websites and services to sha
 
 To make OpenProfile.AI a meaningful and adopted standard, we follow a clear and thoughtful progression:
 
----
-
 ### 1. Explore & Define the Problem
 
 Before jumping into specs, we're taking time to:
@@ -21,8 +19,6 @@ Before jumping into specs, we're taking time to:
 
 We’re polishing the **problem statement**, not just building for the sake of building.
 
----
-
 ### 2. Draft the Standard
 
 Once the problem space is mature and focused, we will:
@@ -31,8 +27,6 @@ Once the problem space is mature and focused, we will:
 - Propose data formats and schemas (inspired by schema.org)  
 - Ensure privacy-first design and consent-driven access  
 - Iterate based on feedback
-
----
 
 ### 3. Build the Ecosystem
 
