@@ -2,6 +2,8 @@
 
 OpenProfile.AI is an open API standard that enables websites and services to share user-approved personal context — such as preferences, purchases, and behavior — with AI tools and assistants. The goal is to make AI truly personal, by securely connecting data across platforms.
 
+Just like **schema.org** enabled better understanding of websites by search engines, **OpenProfile.AI** enables AI assistants to better understand human context — securely, and with consent. And just like SEO optimizers added schema tags to HTML, tomorrow’s AI optimizers will expose these endpoints to improve assistant integration and relevance.
+
 ## The Stepped Approach
 
 To make OpenProfile.AI a meaningful and adopted standard, we follow a clear and thoughtful progression:
