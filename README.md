@@ -6,37 +6,36 @@ OpenProfile.AI is an open API standard that enables websites and services to sha
 
 To make OpenProfile.AI a meaningful and adopted standard, we follow a clear and thoughtful progression:
 
-### 1. Explore & Define the Problem
+### 1. Continue research 
 
-Before jumping into specs, we're taking time to:
+We’re actively exploring how facts can be defined, shared, and managed in a privacy-respecting and scalable way.
 
-- Gather real-world use cases  
-- Map fragmented user data across apps and services  
-- Understand privacy, consent, and security implications  
-- Interview potential adopters (AI tool builders, service owners)
+### 2. Find allies 
 
-We’re polishing the **problem statement**, not just building for the sake of building.
+We're looking for like-minded people — both on the business side and among AI assistant developers — to explore the standard together.
 
-### 2. Draft the Standard
+### 3. Validate integration models 
 
-Once the problem space is mature and focused, we will:
+We're prototyping how assistants would connect to a Facts Pod and work with shared data.
 
-- Define minimal, composable API endpoints (like `GET /openprofile/facts`)  
-- Propose data formats and schemas (inspired by schema.org)  
-- Ensure privacy-first design and consent-driven access  
-- Iterate based on feedback
+### 4. Define the schema 
 
-### 3. Build the Ecosystem
+A common language and structure for facts need to be agreed upon — categories, metadata, flags, lifecycles.
 
-After the standard is drafted, we’ll:
+### 5. Create plugins 
 
-- Create **reference implementations** and developer tooling  
-- Invite contributors to build **free open-source plugins** for popular platforms  
-  (e.g. Shopify, WordPress, WooCommerce, Strapi, custom e-commerce engines)  
-- Offer guides, SDKs, and validators
+Easy-to-install packages for WordPress, OpenCart, and other CMSs to enable support for OpenProfile without extra dev time.
 
 ## Want to Contribute?
 
-If you care about making AI more personal, useful, and user-respecting — we’d love your ideas, feedback, and code contributions.  
-Start by checking out [Wiki](https://github.com/modanets/openprofile.ai/wiki) and [Discussions](https://github.com/modanets/openprofile.ai/discussions).
+The idea of the OpenProfile.AI standard is in a very early stage.
+We’ve just started gathering information about real-world challenges, testing hypotheses, and listening to both businesses and users.
+The original idea may evolve. The concept might expand — or get more focused.
+
+So any feedback, relevant experience, or references to similar initiatives are highly appreciated.
+
+If this resonates with you, join the conversation:
+ - Join the [BEE Community](https://wearecommunity.io/communities/bee-community) to stay in the loop
+ - Star the project on GitHub to show your support ⭐
+ - Start by checking out [Wiki](https://github.com/modanets/openprofile.ai/wiki) and [Discussions](https://github.com/modanets/openprofile.ai/discussions).
 
