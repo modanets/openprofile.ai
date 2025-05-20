@@ -28,6 +28,14 @@ A common language and structure for facts need to be agreed upon — categories,
 
 Easy-to-install packages for WordPress, OpenCart, and other CMSs to enable support for OpenProfile without extra dev time.
 
+## Publications
+
+ - [UA] [Контекст вирішує все. Настав час взяти його під контроль](https://wearecommunity.io/communities/bee-community/articles/6600)
+ - [UA] [Як ШІ змінить Інтернет і Бізнес](https://wearecommunity.io/communities/bee-community/articles/6548)
+ - [EN] [A Future Where AI Understands You Better Than Ever](https://medium.com/@maksym.odanets/a-future-where-ai-understands-you-84b8479c7147)
+ - [EN] [The End of Contextual Ads. The Rise of Conversational Context](https://medium.com/@maksym.odanets/the-end-of-contextual-ads-the-rise-of-conversational-context-f0c9b9eb9966)
+ - [EN] [It’s time to take control of your data and make it work for you, not for advertisers! ](https://medium.com/@maksym.odanets/its-time-to-take-control-of-your-data-and-make-them-work-for-you-not-for-advertisers-efc24dd49438)
+
 ## Want to Contribute?
 
 The idea of the OpenProfile.AI standard is in a very early stage.
